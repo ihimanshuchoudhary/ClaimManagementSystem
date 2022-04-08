@@ -27,8 +27,7 @@ After the 4 microservices are up and running launch the ClaimApp in the browser.
 ### Initial Launch
 
 On initial launch of application the user is prompted with a home page of the application. In the navigation bar user can click the `Login` button for authentication.
-
-![alt text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/Home.png)
+![Login page](https://user-images.githubusercontent.com/55060443/162374330-d05b32f8-2c5d-4741-bba5-eb0fbd071841.png)
 
 
 
