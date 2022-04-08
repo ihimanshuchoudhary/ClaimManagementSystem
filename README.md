@@ -12,9 +12,14 @@ Following services are part of the application:
 * Claim microservice
 * Policy microservice
 
-## Requirements
+## Software Requirements
 * Java 8
-* 
+* Web Devlopment kit(HTML,CSS,BOOTSTRAP,JS)
+
+
+## Hardware Requirements
+* Windows/Linux
+* 4 gb ram and above
 
 ## Setup
 
