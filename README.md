@@ -23,6 +23,8 @@ Following services are part of the application:
 
 ## Software used
 * Maven
+* Postman
+* Eclipse
 
 ## Hardware Requirements
 * Windows/Linux
