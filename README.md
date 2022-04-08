@@ -56,20 +56,18 @@ Authenticated users can now access the features of the application from the navi
 
 
 
-## Bills Portal
+## Claim Portal
 
 Registered users can enter their Member ID to view their bills which include Due Amount, Last paid date and Premium Amount. 
 Use Member ID `M101` to view this user's bills.
 
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/BillsPortal.png)
-
+![claimPage](https://user-images.githubusercontent.com/55060443/162376551-116554fe-9c88-4218-b194-663151355241.png)
 
 ## Submitting a Claim
 
 If a user wishes to submit a claim, the submit claim form can be used where the user can enter details regarding Member ID,hospital,policies, etc. Based on the details provided the status of the claim is decided to be either `pending` or `rejected`. User will also be alloted a `Claim ID` for future reference.
 
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/SubmitClaim.png)
-
+![SubmitClaim](https://user-images.githubusercontent.com/55060443/162376546-b434f663-2e48-432c-a6e8-af73ffb29221.png)
 
 ## Viewing Claim Status
 
@@ -77,15 +75,15 @@ If a user wishes to submit a claim, the submit claim form can be used where the 
 The user can view the claim status at any time using the `Claim ID` generated in the previous step using the Claim status portal.
 
 
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/ClaimStatus.png)
+![Check StatusPage](https://user-images.githubusercontent.com/55060443/162376831-15855037-4b7b-4fa1-8d14-e592be057d79.png)
+
+## Bill Status
 
 
-## Session Expiration
+The users can see their bill status in this.
 
+![ViewBillPage](https://user-images.githubusercontent.com/55060443/162376532-ad7b84e5-96d1-489d-8cf2-a082a29737a2.png)
 
-The users's session will be valid for `30 minutes` after which the user will be prompted to login again.
-
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/SessionExpired.png)
 
 
 
