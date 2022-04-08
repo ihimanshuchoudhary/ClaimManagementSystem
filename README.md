@@ -12,9 +12,14 @@ Following services are part of the application:
 * Claim microservice
 * Policy microservice
 
-## Software Requirements
+## Technologies used
 * Java 8
-* Web Devlopment kit(HTML,CSS,BOOTSTRAP,JS)
+* Spring JPA/BOOT/REST
+* AWS,CI/CD
+* Lombok login
+* Sonar cube
+* Junit,Mockito
+* H2 DB
 
 
 ## Hardware Requirements
