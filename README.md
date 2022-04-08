@@ -87,7 +87,7 @@ The user can view the claim status at any time using the `Claim ID` generated in
 
 ![Check StatusPage](https://user-images.githubusercontent.com/55060443/162376831-15855037-4b7b-4fa1-8d14-e592be057d79.png)
 
-## Bill Status
+## View Bill
 
 
 The users can see their bill status in this.
