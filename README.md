@@ -53,7 +53,7 @@ User has to enter his username and password to login. Following credentials can 
 | Username   | Password| 
 | -----------|:--------|
 | admin     | admin    |
-| shraddha  | shraddha |
+
 
 ![loginpage](https://user-images.githubusercontent.com/55060443/162374653-133b403c-3d79-461f-b6dc-faa1d436321c.png)
 
