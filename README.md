@@ -51,10 +51,6 @@ User has to enter his username and password to login. Following credentials can 
 
 Authenticated users can now access the features of the application from the navigation bar under their username.
 
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/Features.png)
-
-
-
 
 ## Claim Portal
 
