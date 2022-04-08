@@ -41,7 +41,8 @@ User has to enter his username and password to login. Following credentials can 
 | admin     | admin    |
 | shraddha  | shraddha |
 
-![alt-text](https://github.com/AayushBangroo/ij025Team3ClaimsManagement/blob/master/Usage%20Images/LoginInput.png)
+![loginpage](https://user-images.githubusercontent.com/55060443/162374653-133b403c-3d79-461f-b6dc-faa1d436321c.png)
+
 
 
 
