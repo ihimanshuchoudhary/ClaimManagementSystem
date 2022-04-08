@@ -91,7 +91,7 @@ The users's session will be valid for `30 minutes` after which the user will be 
 
 ## Developers
 
-* [Shraddha Hemeawat]
+* [Shraddha Hemawat]
 * [Sukhmeet Singh]
 * [Sumiksha Gupta ]
 * [Samarth Bhargava]
