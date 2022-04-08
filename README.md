@@ -21,10 +21,12 @@ Following services are part of the application:
 * Junit,Mockito
 * H2 DB
 
+## Software used
+* Maven
 
 ## Hardware Requirements
 * Windows/Linux
-* 4 gb ram and above
+* 8 gb ram and above
 
 ## Setup
 
