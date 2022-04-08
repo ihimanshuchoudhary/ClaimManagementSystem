@@ -1,6 +1,6 @@
 # Claims Management System
 
-This is a full-stack MFPE project built as part of Cognizant ADM JAVA FULL STACK internship.
+This is a full-stack MFPE project built as part of Cognizant ADM JAVA FULL STACK training.
 
 Following services are part of the application:
 ## Frontend:
